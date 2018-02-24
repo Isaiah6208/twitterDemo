@@ -1,0 +1,35 @@
+
+  #nav1
+  {  
+      background-color:rgb(0, 0, 0);  /*whichever you want*/
+      opacity: 0.8;           /*0.5 determines transparency value*/ 
+      filter:(opacity=50);       
+  }
+  img.exiaLogo
+  {
+    width: 70px;
+    height: 50px;
+  }
+  body
+  {
+    background-color: #313131;
+    background-image: url("https://media.giphy.com/media/1xpAEIhFMz8VmOHSRR/giphy.gif");
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 100px;
+  }
+  div.tweets
+  {
+      margin: auto;
+      width: 45%;
+  }
+
+  /* Bootstrap CSS */
+  ul.navbar-nav
+  {
+    font-size: 30px;
+  }
