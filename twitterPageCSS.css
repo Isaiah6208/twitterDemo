@@ -27,6 +27,10 @@
       margin: auto;
       width: 45%;
   }
+  div.preSpace
+  {
+      padding-bottom: 240px;
+  }
 
   /* Bootstrap CSS */
   ul.navbar-nav
